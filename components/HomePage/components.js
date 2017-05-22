@@ -28,7 +28,7 @@ const HomePage = () => {
                 I am a satisfied customer over many years. I can unreservedly recommend this company.
               </p>
             </div>
-            <div className="col-sm-5 review-box">
+            <div className="col-md-5 review-box">
               <div>
                 sss
               </div>
@@ -52,7 +52,7 @@ const HomePage = () => {
                 I am a satisfied customer over many years. I can unreservedly recommend this company.
               </p>
             </div>
-            <div className="col-sm-5 review-box">
+            <div className="col-md-5 review-box">
               <div>
                 sss
               </div>
@@ -76,7 +76,7 @@ const HomePage = () => {
                 I am a satisfied customer over many years. I can unreservedly recommend this company.
               </p>
             </div>
-            <div className="col-sm-5 review-box">
+            <div className="col-md-5 review-box">
               <div>
                 sss
               </div>
